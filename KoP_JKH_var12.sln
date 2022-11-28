@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "KoP6", "KoP6\KoP6.pyproj", "{48E024D7-6E80-4FD4-B96E-DD27DB13CF2C}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "KoP7", "KoP7\KoP7.pyproj", "{655FA532-CCAB-4EDE-B57B-104DA5DF85FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48E024D7-6E80-4FD4-B96E-DD27DB13CF2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48E024D7-6E80-4FD4-B96E-DD27DB13CF2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{655FA532-CCAB-4EDE-B57B-104DA5DF85FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{655FA532-CCAB-4EDE-B57B-104DA5DF85FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8D6D6EB-19E7-4C16-B883-3F18B627E384}
+	EndGlobalSection
+EndGlobal
